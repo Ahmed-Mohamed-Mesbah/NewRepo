@@ -30,5 +30,7 @@ public class Test {
 >>>>>>> Mesbah
 
 		//after merging
+
+// adding in master
 	}
 }
