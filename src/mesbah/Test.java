@@ -20,7 +20,13 @@ public class Test {
 		System.out.println("Hello Mesbah "+(x >= y));
 		System.out.println("Hello Mesbah "+(x > y));
 		System.out.println ("Hello Mesbah "+(x < y));
+<<<<<<< HEAD
 
 		//no thing add here in master
+=======
+		//added
+		System.out.println ("Hello Mesbah "+(x < y));	
+
+>>>>>>> Mesbah
 	}
 }
