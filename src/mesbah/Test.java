@@ -28,5 +28,7 @@ public class Test {
 		System.out.println ("Hello Mesbah "+(x < y));	
 
 >>>>>>> Mesbah
+
+		//after merging
 	}
 }
