@@ -31,8 +31,12 @@ public class Test {
 
 		//after merging
 
+<<<<<<< HEAD
 //in mesbah branch
 
 // in mesbah again
+=======
+// adding in master
+>>>>>>> master
 	}
 }
